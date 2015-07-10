@@ -1,6 +1,8 @@
 # FramerWorkshop
 Prototypes for the Framer Workshop at UsTwo.
 
+![Banner](http://f.cl.ly/items/1d1Q0b1U39202l363I0v/banner.png)
+
 ---
 
 ### Examples
