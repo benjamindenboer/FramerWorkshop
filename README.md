@@ -1,7 +1,7 @@
 # FramerWorkshop
 Prototypes for the Framer Workshop at UsTwo.
 
-![Banner](http://cl.ly/bvQK/git.png)
+![Banner](http://cl.ly/bvtC/git.png)
 
 ---
 
