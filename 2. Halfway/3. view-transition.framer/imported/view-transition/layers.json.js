@@ -1,0 +1,166 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["view-transition/layers.json.js"] = [
+  {
+    "maskFrame" : null,
+    "id" : "9F352AA2-923C-4ADA-B6C8-D4F2691D03F4",
+    "visible" : true,
+    "children" : [
+      {
+        "maskFrame" : null,
+        "id" : "2896C766-3251-4DD0-BEC5-A3C13D42DBC4",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Layer-post-2896C766-3251-4DD0-BEC5-A3C13D42DBC4.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 750,
+            "width" : 750,
+            "height" : 1334
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 750,
+          "width" : 750,
+          "height" : 1334
+        },
+        "name" : "post"
+      },
+      {
+        "maskFrame" : {
+          "y" : 1250,
+          "x" : 0,
+          "width" : 750,
+          "height" : 89
+        },
+        "id" : "17CD85B3-3BFA-4384-8F54-6B0DE5CD33C0",
+        "visible" : true,
+        "children" : [
+
+        ],
+        "image" : {
+          "path" : "images\/Layer-navBar-17CD85B3-3BFA-4384-8F54-6B0DE5CD33C0.png",
+          "frame" : {
+            "y" : 1250,
+            "x" : 0,
+            "width" : 750,
+            "height" : 89
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 1250,
+          "x" : 0,
+          "width" : 750,
+          "height" : 89
+        },
+        "name" : "navBar"
+      },
+      {
+        "maskFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 750,
+          "height" : 1334
+        },
+        "id" : "405A48EB-DF9C-4CB8-9CDC-E033C90CD5D7",
+        "visible" : true,
+        "children" : [
+          {
+            "maskFrame" : {
+              "y" : 505,
+              "x" : 33,
+              "width" : 355,
+              "height" : 100
+            },
+            "id" : "63EA67BD-CB8B-4C28-B042-E34A8DB27775",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/Layer-write-63EA67BD-CB8B-4C28-B042-E34A8DB27775.png",
+              "frame" : {
+                "y" : 505,
+                "x" : 33,
+                "width" : 355,
+                "height" : 100
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 505,
+              "x" : 33,
+              "width" : 355,
+              "height" : 100
+            },
+            "name" : "write"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "90808EA2-C1BE-4764-9E65-6522250BD846",
+            "visible" : true,
+            "children" : [
+
+            ],
+            "image" : {
+              "path" : "images\/Layer-image-90808EA2-C1BE-4764-9E65-6522250BD846.png",
+              "frame" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 750,
+                "height" : 3386
+              }
+            },
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : 0,
+              "x" : 0,
+              "width" : 750,
+              "height" : 3386
+            },
+            "name" : "image"
+          }
+        ],
+        "image" : {
+          "path" : "images\/Layer-group-405A48EB-DF9C-4CB8-9CDC-E033C90CD5D7.png",
+          "frame" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 750,
+            "height" : 1334
+          }
+        },
+        "imageType" : "png",
+        "layerFrame" : {
+          "y" : 0,
+          "x" : 0,
+          "width" : 750,
+          "height" : 1334
+        },
+        "name" : "group"
+      }
+    ],
+    "image" : {
+      "path" : "images\/Layer-screen-9F352AA2-923C-4ADA-B6C8-D4F2691D03F4.png",
+      "frame" : {
+        "y" : 0,
+        "x" : 0,
+        "width" : 1500,
+        "height" : 1339
+      }
+    },
+    "imageType" : "png",
+    "layerFrame" : {
+      "y" : 0,
+      "x" : 0,
+      "width" : 1500,
+      "height" : 1339
+    },
+    "name" : "screen"
+  }
+]
